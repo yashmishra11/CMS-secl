@@ -484,7 +484,7 @@ Contributions are welcome! Please follow these guidelines:
 
 ## 📄 License
 
-This project is proprietary software developed for South Eastern Coalfields Limited (SECL).
+This project is proprietary software developed for South Eastern Coalfields Limited (SECL) but now doesnot contain any relevent/crucial data related to them.
 
 **Copyright © 2024 SECL. All rights reserved.**
 
@@ -505,11 +505,10 @@ For issues, questions, or support:
 ## 🙏 Acknowledgments
 
 - South Eastern Coalfields Limited (SECL)
-- Development Team
-- All contributors and testers
+- System Department Team
 
 ---
 
 **Version**: 1.0.0  
-**Last Updated**: February 2026  
-**Maintained By**: SECL IT Department
+**Last Updated**: july 2026  
+**Maintained By**: me
